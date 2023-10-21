@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "AutoParkApp",
+      "request": "launch",
+      "mainClass": "AutoParkApp",
+      "vmArgs": "--module-path \"C:/Program Files/Java/JavaFX/lib\" --add-modules javafx.controls,javafx.fxml",
+    }
+  ]
+}
